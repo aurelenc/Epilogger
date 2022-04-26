@@ -33,3 +33,8 @@
 
 # Editor Specific
 .vscode
+
+
+# Build Files
+build/
+bin/
