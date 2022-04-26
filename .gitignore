@@ -31,4 +31,9 @@
 *.out
 *.app
 
-# Editor specific
+# Editor Specific
+.vscode
+
+# Build Files
+build/
+bin/
