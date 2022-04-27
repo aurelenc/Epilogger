@@ -1,2 +1,2 @@
 # Epilogger
-Personal implementation of a Logger in CPP
+A CPP Logger without arbitrary code execution
