@@ -3,7 +3,7 @@ set (CMAKE_MINIMUM_REQUIRED_VERSION true)
 set (CMAKE_CXX_STANDARD 20)
 set (CMAKE_CXX_STANDARD_REQUIRED true)
 
-project (log_yeeter)
+project (Epilogger)
 
 add_compile_options(
     "-Wall" "-Wextra" "-pedantic" "-Wpointer-arith"
