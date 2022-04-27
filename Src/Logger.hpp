@@ -1,4 +1,4 @@
-/// \brief LibCPPLogger
+/// \brief Epilogger
 /// \authors @aurelenc
 /// \file Logger.hpp
 #ifndef LOGGER_HPP_

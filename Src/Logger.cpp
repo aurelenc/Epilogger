@@ -1,4 +1,4 @@
-/// \brief LibCPPLogger
+/// \brief Epilogger
 /// \authors @aurelenc
 /// \file Logger.cpp
 
